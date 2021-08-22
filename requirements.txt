@@ -3,6 +3,5 @@ requests
 pandas
 plotly-express
 voila
-JupyterDash
 matplotlib
 jupyter_dash
