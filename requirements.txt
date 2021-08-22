@@ -1,0 +1,7 @@
+jupyterlab
+requests
+pandas
+plotly-express
+voila
+JupyterDash
+matplotlib
